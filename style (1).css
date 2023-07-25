@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+    padding-top: 20px;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .copyRightFooter {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 10;
+    text-align: center;
+ }
+
+ canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px green; 
+}
